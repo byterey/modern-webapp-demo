@@ -21,6 +21,7 @@ export function CreatePost() {
   return (
     <form onSubmit={handleSubmit}>
       <div>
+        <h1>im pogi</h1>
         <label htmlFor='create-title'>Title: </label>
         <input
           type='text'
