@@ -1,0 +1,7 @@
+{
+  "jest.runMode": {
+    "type": "on-demand"
+  },
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}

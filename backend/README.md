@@ -55,3 +55,8 @@ To run the tests, execute the following command:
 ```bash
 npm test
 ```
+
+
+To Run Backend only locally
+go to cd backend/
+npm run dev
