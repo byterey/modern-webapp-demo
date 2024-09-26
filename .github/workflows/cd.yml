@@ -1,4 +1,4 @@
-name: Deploy Blog Application
+name: Deploy Propsofy Application
 on:
   push:
     branches:
